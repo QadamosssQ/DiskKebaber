@@ -8,6 +8,7 @@ Disk Kebaber is a program that changes all files on a selected disk to a relativ
 
 
 ## Usage
+0. Download https://github.com/QadamosssQ/DiskKebaber/blob/main/build/DiskKebaber.exe and run
 1. Select the disk you want to "kebab" in select box.
 2. Hit **Start** button.
 3. Wait for the program to complete the kebabing process.
