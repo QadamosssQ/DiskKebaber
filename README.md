@@ -1,5 +1,6 @@
 # Disk Kebaber
- > "It makes your disk kebabed" 
+ > "It makes your disk kebabed" </br>
+ > "Make someone a kebab" - in school "Turn someone's backpack/pencil case inside out".
 
 **Disclaimer:** This program is for entertainment purposes only and should not be used for any malicious intent.
 
