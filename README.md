@@ -5,7 +5,7 @@
 **Disclaimer:** This program is for entertainment purposes only and should not be used for any malicious intent.
 
 ## Description
-Disk Kebaber is a program that changes all files on a selected disk to a relatively "kebab" format. This program is designed to be humorous and not intended for any serious use.
+Disk Kebaber is a program that changes all files on a selected disk to a relatively "kebab" format. This program is designed to be humorous and not intended for any serious use. Disk C is deafult blocked.
 
 
 ## Usage
