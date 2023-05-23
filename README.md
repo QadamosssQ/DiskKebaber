@@ -25,5 +25,6 @@ This program will irreversibly change all the files on the selected disk to a ke
 Disk Kebaber was created by MSAdamoss as a joke. It is not intended for any serious use.
 
 ## License
-Disk Kebaber is licensed under the MIT License. See the LICENSE file for more information.
-
+This project is licensed under the [MIT License](LICENSE).
+The MIT License is a permissive open-source license that allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. It also includes a disclaimer of warranty and liability.
+For more details, please see the [LICENSE](LICENSE) file.
